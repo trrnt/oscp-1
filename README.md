@@ -22,3 +22,8 @@ It is an IT security certification track offered by [Offensive Security](https:/
 * [`tooling/`](/tooling/)
 
 ## Links
+
+* [Pentesting with Kali Linux online course](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/)
+* [PWK Support](https://support.offensive-security.com/pwk-support/)
+* [Offensive forums](https://forums.offensive-security.com/index.php)
+* 
