@@ -20,10 +20,11 @@ It is an IT security certification track offered by [Offensive Security](https:/
 
 * [`knowledge/`](/knowledge/)
 * [`tooling/`](/tooling/)
+* [`books/`](/books/)
 
 ## Links
 
 * [Pentesting with Kali Linux online course](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/)
 * [PWK Support](https://support.offensive-security.com/pwk-support/)
 * [Offensive forums](https://forums.offensive-security.com/index.php)
-* 
+* [Kali official docs](https://docs.kali.org/)
